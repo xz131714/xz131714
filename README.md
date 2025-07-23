@@ -1,5 +1,5 @@
-<img align="right" src="https://count.getloli.com/get/@:xz131714?theme=rule34">
-
+[<img align="right" src="https://count.getloli.com/get/@:xz131714?theme=rule34">
+](https://count.getloli.com/@xz131714?name=xz131714&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=9131714)
 ## IT爱好者—小张
 
 热爱折腾、热爱技术。小白一枚。
