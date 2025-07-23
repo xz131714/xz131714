@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
-**[个人主页](http://xiaozhangya.xin)**  
+[**个人主页：http://xiaozhangya.xin**](http://xiaozhangya.xin)  
 个人主页包含以下内容：
 - **基于 WordPress 的博客**：分享技术文章与生活感悟。
 - **Telegram 图床**：提供方便快捷的图片上传与分享服务。
