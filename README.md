@@ -4,7 +4,7 @@
 
 热爱折腾、热爱技术。小白一枚。
 
-### **社交主页：**
+## **社交主页：**
 
 [**个人主页：http://xiaozhangya.xin**](http://xiaozhangya.xin)  
 个人主页包含以下内容：
@@ -13,7 +13,8 @@
 - **Openlist 网盘**：用于存储与分享文件，提供高速下载链接。
 ![个人主页图片](./images/homePage.png)
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-### Github 活跃度
+
+## Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=xz131714&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Xzz's github stats](https://github-readme-stats.vercel.app/api?username=xz131714&show_icons=true&theme=vue)
