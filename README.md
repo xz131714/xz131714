@@ -5,6 +5,8 @@
 热爱折腾、热爱技术。小白一枚。
 
 ### **社交主页：**
+**个人主页** xiaozhangya.xin
+![](./images/homePage.png)
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
  
